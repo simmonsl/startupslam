@@ -1,1 +1,0 @@
-This file will be used to demo the git command to ignore a file from a commit
