@@ -1,0 +1,3 @@
+This is the file we will be editing for git workshop
+
+Here I am editing the file
